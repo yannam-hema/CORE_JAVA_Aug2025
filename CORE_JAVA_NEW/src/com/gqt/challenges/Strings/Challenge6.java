@@ -9,6 +9,5 @@ public class Challenge6 {
 		String str=sc.nextLine();
 		System.out.println(str.length());
 		sc.close();
-		
 	}
 }

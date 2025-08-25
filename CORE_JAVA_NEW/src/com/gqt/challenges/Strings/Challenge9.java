@@ -3,7 +3,6 @@ package com.gqt.challenges.Strings;
 import java.util.Scanner;
 
 public class Challenge9 {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String str=sc.nextLine();
@@ -24,15 +23,12 @@ public class Challenge9 {
 		  }
 		  
 		}
-		
 		if(sb.length()>max) {
 		max=sb.length();
 		res=new StringBuilder(sb.toString());
 		}
-		
 		System.out.println("Longest Word in the String " + res+" and it's length is- "+max);
 		sc.close();
-		
 	}
 }
 

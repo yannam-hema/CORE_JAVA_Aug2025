@@ -26,7 +26,7 @@ public class Challenge11 {
 		System.out.println("All characters are repeated");
 		}
 		else {
-		System.out.println("The non-Repeated character is :- "+ result);
+		System.out.println("The First non-Repeated character is :- "+ result);
 		}
 	}
 }

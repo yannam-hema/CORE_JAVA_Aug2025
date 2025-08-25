@@ -17,6 +17,5 @@ public static void main(String[] args) {
 	System.out.println("double subtarction = "+(x-y));
 	System.out.println("double multiply = "+(x*y));
 	System.out.println("double division = "+(x/y));
-	
 }
 }

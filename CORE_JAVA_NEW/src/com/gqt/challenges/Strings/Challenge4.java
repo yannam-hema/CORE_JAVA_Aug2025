@@ -17,7 +17,9 @@ public static void main(String[] args) {
     }
     char c='a';
     for(int i=0;i<26;i++) {
+    	if(freq[i]>0) {
  	System.out.println("occurence of "+c+" in the string is "+freq[i] );
+    	}
  	c++;
     }
     sc.close();

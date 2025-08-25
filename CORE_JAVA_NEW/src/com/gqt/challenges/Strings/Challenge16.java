@@ -25,7 +25,7 @@ public class Challenge16 {
     	 System.out.print("All characters are distinct"); 
       }
       else {
-      System.out.println("The duplicate Characters are :");
+      System.out.print("The duplicate Characters are : ");
       for(char i: hs) {
     	  System.out.print(i+ " ");
       }
