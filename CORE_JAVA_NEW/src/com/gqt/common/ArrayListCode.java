@@ -38,6 +38,6 @@ public static void main(String[] args) {
 	HashSet hs = new HashSet();
 	//hs.
 	LinkedHashSet lh = new LinkedHashSet();
-	lh.
+	
 }
 }

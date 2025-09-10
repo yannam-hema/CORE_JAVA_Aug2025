@@ -18,7 +18,7 @@ class Rectangle3 extends Figure1{
 	}
 }
 class circle1 extends Figure1{
-	circle(){
+	circle1(){
 		System.out.println("Circle");
 	}
 	@Override
